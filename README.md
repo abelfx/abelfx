@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abel Tesfa</h1>
-<h3 align="center">A passionate Full Stack Developer from Ethiopia</h3>
+<h1 align="center">Hi, I'm Abel Tesfa</h1>
+<h3 align="center">AI & Machine Learning Engineer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelfx&label=Profile%20views&color=0e75b6&style=flat" alt="abelfx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abelfx" alt="abelfx" /></a> </p>
 
-- 🔭 I’m currently working on **A Book Store for my Client Baya Books**
+- I’m currently working on **I’m currently working on Mork, a high-performance backend for the Hyperon cognitive architecture**
 
-- 🌱 I’m currently learning **Microsoft Azure Associate and Linux Essentials**
+- I’m currently learning **Advanced Learning Algorithms**
 
-- 👯 I’m looking to collaborate on **an Expert Advisor that automates Forex Trading**
-
-- 🤝 I’m looking for help with **IntelliReview Research Paper for University Teachers**
+- I’m looking to collaborate on **an Expert Advisor that automates entries in Futures Trading**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abelfx](https://github.com/abelfx)
 
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **abeltesfa198@gmail.com**
 
-- 📄 Know about my experiences [https://abelportfoliosite.netlify.app/](https://abelportfoliosite.netlify.app/)
+- 📄 Know about my experiences [https://abeltesfa.dev]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
