@@ -11,11 +11,11 @@
 
 - I’m looking to collaborate on **an Expert Advisor that automates entries in Futures Trading**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abelfx](https://github.com/abelfx)
+- All of my projects are available at [https://github.com/abelfx](https://github.com/abelfx)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abel-tesfa-9b1617249/](https://www.linkedin.com/in/abel-tesfa-9b1617249/)
+- I regularly write articles on [https://www.linkedin.com/in/abel-tesfa-9b1617249/](https://www.linkedin.com/in/abel-tesfa-9b1617249/)
 
-- 📫 How to reach me **abeltesfa198@gmail.com**
+- How to reach me **abeltesfa198@gmail.com**
 
 - 📄 Know about my experiences [https://abeltesfa.dev]
 
